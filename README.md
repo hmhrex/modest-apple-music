@@ -1,8 +1,8 @@
-# Apple Music Artwork Hider
+# Modest Apple Music
 
-You ever want to use Apple Music in a pbulic space but don't want to show potentially explicit album covers? This browser extension blurs or hides album artwork on the web version of [Apple Music](https://music.apple.com).
+**NOTE: This only works for the web version of Apple Music. It does not work for Apple Music desktop or mobile applications.**
 
-**NOTE: This does not work for Apple Music desktop or mobile applications.**
+You ever want to use Apple Music in a public space but don't want to show potentially explicit album covers? This browser extension blurs or hides album artwork on the web version of [Apple Music](https://music.apple.com).
 
 ## Features
 
@@ -22,6 +22,11 @@ Changes apply instantly across the page, including the player bar and dynamicall
 ### Chrome (unpacked)
 
 1. Go to `chrome://extensions`
+2. Enable **Developer mode**
+3. Click **Load unpacked** and select this directory
+
+### Microsoft Edge (unpacked)
+1. Go to `edge://extensions`
 2. Enable **Developer mode**
 3. Click **Load unpacked** and select this directory
 
