@@ -1,0 +1,17 @@
+/* Blur mode */
+html[data-am-artwork="blur"] img.artwork-component__image:not(.badge-artwork img),
+html[data-am-artwork="blur"] .lcd__artwork-img,
+html[data-am-artwork="blur"] .video-artwork__container,
+html[data-am-artwork="blur"] .artwork__radiosity,
+html[data-am-artwork="blur"] .powerswoosh__artwork-blur {
+  filter: blur(15px);
+}
+
+/* Hide mode */
+html[data-am-artwork="hide"] img.artwork-component__image:not(.badge-artwork img),
+html[data-am-artwork="hide"] .lcd__artwork-img,
+html[data-am-artwork="hide"] .video-artwork__container,
+html[data-am-artwork="hide"] .artwork__radiosity,
+html[data-am-artwork="hide"] .powerswoosh__artwork-blur {
+  visibility: hidden;
+}
