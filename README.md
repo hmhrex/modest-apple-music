@@ -6,6 +6,8 @@ You ever want to use Apple Music in a public space but don't want to show potent
 
 ## Features
 
+![Demo](./mam.gif)
+
 - **Show** — Display artwork normally (default)
 - **Blur** — Apply a blur filter over all artwork
 - **Hide** — Make artwork completely invisible
